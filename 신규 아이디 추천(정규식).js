@@ -15,3 +15,4 @@ function solution(new_id) {
 }
 
 solution("=.=")
+//https://ninearies.tistory.com/177
